@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #0c0c0c;
-  background-color: #ffffff;
+  color: #c8e7f3;
+  background-color: #1c0541;
 }
 
 .layout_padding {
@@ -64,7 +64,7 @@ body {
 }
 
 .header_section {
-  background-color: #1e025b;
+  background-color: #0a067e;
   padding: 10px 0;
 }
 
@@ -212,7 +212,7 @@ a:focus {
 
 .slider_section .detail-box .slider-link:hover {
   background-color: #ffffff;
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 .slider_section .img-box {
@@ -278,7 +278,7 @@ a:focus {
 .about_section a {
   display: inline-block;
   padding: 8px 25px;
-  background-color: #000000;
+  background-color: #2748b2;
   border: 1px solid #000000;
   color: #ffffff;
   border-radius: 25px;
@@ -360,7 +360,7 @@ a:focus {
 
 .service_section .box .name h6 {
   text-transform: uppercase;
-  color: #000000;
+  color: #87d1f0;
   font-weight: bold;
 }
 
