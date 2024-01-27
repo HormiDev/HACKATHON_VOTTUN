@@ -328,6 +328,11 @@ a:focus {
           justify-content: space-between;
 }
 
+.service_container a .box .img-box img{
+  width: 100%;
+}
+
+
 .service_section .box {
   width: 175px;
   text-align: center;
@@ -678,7 +683,7 @@ a:focus {
 .contact_section .contact_form-container input {
   border: none;
   outline: none;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #b6d7e9;
   width: 90%;
   margin: 15px 0;
   background-color: transparent;
@@ -812,13 +817,13 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #ffffff;
+  background-color: #380264;
   padding: 20px;
   font-weight: 500;
 }
 
 .footer_section p {
-  color: #292929;
+  color: #e8f3fd;
   margin: 0;
   text-align: center;
 }
