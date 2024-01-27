@@ -607,7 +607,7 @@ a:focus {
 
 .client_section .client_container .box .detail-box {
   padding: 45px 20px;
-  -webkit-box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.29);
+  -webkit-box-shadow: 0px 0px 16px 0px rgba(85, 66, 255, 0.29);
   box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.29);
 }
 
@@ -624,10 +624,12 @@ a:focus {
   min-width: 150px;
   margin-top: -50px;
   margin-left: 5px;
+  width: 50%;
 }
 
 .client_section .client_container .box .client-id .img-box img {
-  width: 100%;
+  width: 50%;
+  border-radius: 50%;
 }
 
 .client_section .client_container .box .client-id .name {
@@ -636,11 +638,11 @@ a:focus {
 }
 
 .client_section .client_container .box .client-id .name h5 {
-  color: #021056;
+  color: #c6cff7;
 }
 
 .client_section .client_container .box .client-id .name h6 {
-  color: #0730fc;
+  color: #63b9ff;
 }
 
 .client_section .carousel-control-prev,
@@ -683,22 +685,22 @@ a:focus {
 }
 
 .contact_section .contact_form-container input::-webkit-input-placeholder {
-  color: #595959;
+  color: #9dceff;
   font-size: 14px;
 }
 
 .contact_section .contact_form-container input:-ms-input-placeholder {
-  color: #595959;
+  color: #9dceff;
   font-size: 14px;
 }
 
 .contact_section .contact_form-container input::-ms-input-placeholder {
-  color: #595959;
+  color: #9dceff;
   font-size: 14px;
 }
 
 .contact_section .contact_form-container input::placeholder {
-  color: #595959;
+  color: #9dceff;
   font-size: 14px;
 }
 
@@ -824,6 +826,7 @@ a:focus {
 .footer_section a {
   color: #292929;
 }
+
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
